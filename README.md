@@ -6,4 +6,4 @@
 [![Leetcode](https://leetcode.com/mavekk) 
 
 # 💻 Tech Stack:
-Python
+Python, SQL
