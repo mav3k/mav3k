@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Leetcode](https://leetcode.com/mavekk) 
+[Leetcode](https://leetcode.com/mavekk) 
 
 # 💻 Tech Stack:
 Python, SQL
