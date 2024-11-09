@@ -8,4 +8,4 @@
 # 💻 Tech Stack:
 Python, SQL
 
-![](https://komarev.com/ghpvc/?username=your-github-username&base=23290)
+![](https://komarev.com/ghpvc/?username=mav3k&base=23290)
